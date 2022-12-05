@@ -1,7 +1,11 @@
 # ai-whispers-lighthouse
 poetry in collaborative digital art.
 
-[https://github.com/HjalmarSnoep/ai-whispers-lighthouse/blob/main/process.jpg?raw=true](Het proces)
+A huge wave crashing on to a dark silhouetted, spirally striped lighthouse, with tiny warmly lit windows. 
+The turmoiled beauty of the face of the raging sea threatens the cosy lighthouse.
+Crashing waves approach as a giant, bearded raging face of an angry deity can barely be seen formed by waves, foam and watery might.
+
+<img src="https://github.com/HjalmarSnoep/ai-whispers-lighthouse/blob/main/process.jpg?raw=true" height="50%">
 
 The whispers:
 In all chaotic beauty a tsunami threatens a cosy lighthouse.
