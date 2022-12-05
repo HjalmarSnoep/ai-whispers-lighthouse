@@ -1,6 +1,8 @@
 # ai-whispers-lighthouse
 poetry in collaborative digital art.
 
+SCN_20221204_210440.jpg
+
 The whispers:
 In all chaotic beauty a tsunami threatens a cosy lighthouse.
 Crashing waves approach as abearded face is barely seen formed by waves and watery might.
